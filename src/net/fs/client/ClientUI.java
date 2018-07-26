@@ -143,9 +143,9 @@ public class ClientUI implements ClientUII, WindowListener {
     boolean tcpEnable=true;
 
     {
-        domain = "ip4a.com";
-        homeUrl = "http://www.ip4a.com/?client_fs";
-        updateUrl = "http://fs.d1sm.net/finalspeed/update.properties";
+        domain = "www.taoxy.online";
+        homeUrl = "www.taoxy.online";
+        updateUrl = "www.taoxy.online";
     }
 
     ClientUI(final boolean isVisible,boolean min) {
